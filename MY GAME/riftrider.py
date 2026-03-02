@@ -3,8 +3,10 @@ import sys
 from pytmx.util_pygame import load_pygame
 from pytmx.pytmx import TiledTileLayer
 
+#hey
+
 # -----------------------------
-# CONFIG
+# Configuration
 # -----------------------------
 SCREEN_WIDTH = 700
 SCREEN_HEIGHT = 400
